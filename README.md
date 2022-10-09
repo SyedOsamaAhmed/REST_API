@@ -2,4 +2,4 @@
 
 Learnt the following concepts:
 
-* **CRUD using REST APIs.
+* **CRUD** using REST APIs.
